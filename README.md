@@ -1,4 +1,4 @@
-Creating a calculator in react.js language  :computer: :smirk:
+Creating a calculator in react.js language  :computer: :smiley:
 
 The project was carried out in VSCode with its extensions and imports
 
